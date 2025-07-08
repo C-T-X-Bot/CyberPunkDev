@@ -1,5 +1,6 @@
 # CyberPunkDev
 👋 Hey there, I'm Ariel Christian [CyberPunkDev] (CyberPunkC)  
+---
 Code ✦ AI ✦ Creation ✦ Problem-Solving ✦ Vision
 
 I'm a passionate and curious fullstack developer to be, exploring artificial intelligence, robotics, and cutting-edge technologies. Currently enrolled in several online courses at [Harvard University](https://cs50.harvard.edu/). I love pushing the boundaries of code to build smart, impactful, and futuristic solutions. My goal is to create meaningful tech that blends logic, creativity, and innovation.
