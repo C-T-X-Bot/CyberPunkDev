@@ -2,7 +2,7 @@
 👋 Hey there, I'm CyberPunk (C-T-X Bot)  
 Code ✦ AI ✦ Creation ✦ Problem-Solving ✦ Vision
 
-I'm a passionate and curious fullstack developer, exploring artificial intelligence, robotics, and cutting-edge technologies. I love pushing the boundaries of code to build smart, impactful, and futuristic solutions. My goal is to create meaningful tech that blends logic, creativity, and innovation.
+I'm a passionate and curious fullstack developer to be, exploring artificial intelligence, robotics, and cutting-edge technologies. Currently enrolled in several online courses at [Harvard University](https://cs50.harvard.edu/). I love pushing the boundaries of code to build smart, impactful, and futuristic solutions. My goal is to create meaningful tech that blends logic, creativity, and innovation.
 
 ---
 
@@ -54,7 +54,7 @@ A retro-style Scratch game where you defeat aliens and face a final boss.
 
 ---
 
-😄 Fun Facts  
+Stupid things about me...
 I live between science fiction and code.  
 I believe with a laptop, a dream, and some coffee, anything is possible.  
 I love exploring the unknown and bringing bold ideas to life.
@@ -62,7 +62,7 @@ I love exploring the unknown and bringing bold ideas to life.
 ---
 
 💬 Get in touch  
-📧 cyberpunkdev01 [at] gmail [dot] com
+📧 itechlab.me@gmail.com
 📞 +237 688 714 297
 ```
 
