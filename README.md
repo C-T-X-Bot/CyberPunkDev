@@ -1,63 +1,68 @@
 # CyberPunkDev
-👋 Salut, je suis CyberPunk (C-T-X Bot)  
-Code ✦ IA ✦ Création ✦ Résolution ✦ Vision
+👋 Hey there, I'm CyberPunk (C-T-X Bot)  
+Code ✦ AI ✦ Creation ✦ Problem-Solving ✦ Vision
 
-Développeur fullstack curieux, créatif et passionné par l'intelligence artificielle, la robotique et les technologies émergentes. J’explore les limites du code et de l’algorithme pour créer des solutions qui repoussent les frontières de l’imaginaire. Mon objectif : bâtir des projets intelligents, durables et utiles.
-
----
-
-💡 Outils & Technologies  
-Langages : JavaScript, Python, PHP, HTML/CSS  
-Frameworks & Libs : React, Node.js, Express  
-Outils : VS Code, Git & GitHub, Postman, MongoDB  
-Autres : Scratch, Arduino, Linux, Shell scripting  
-Actuellement en exploration :  
-- IA générative avec Python  
-- Automatisation avec bots  
-- Interfaces cerveau-machine (BCI)  
-- Concepts de physique quantique appliqués à l'informatique  
+I'm a passionate and curious fullstack developer, exploring artificial intelligence, robotics, and cutting-edge technologies. I love pushing the boundaries of code to build smart, impactful, and futuristic solutions. My goal is to create meaningful tech that blends logic, creativity, and innovation.
 
 ---
 
-🌱 Centres d'intérêt  
-- Développement logiciel & systèmes intelligents  
-- Robotique & mécatronique  
-- Informatique quantique  
-- Technologies futuristes & science-fiction appliquée  
-- Apprentissage automatique & NLP  
-- Open-source & éthique technologique  
+💡 Tools & Technologies  
+Languages: JavaScript, Python, PHP, HTML/CSS 
+Frameworks & Libraries: React, Node.js, Express  
+Tools: VS Code, Git & GitHub, Postman, MongoDB  
+Other: Scratch, Arduino, Linux, Shell scripting  
+Currently exploring:  
+- Generative AI with Python  
+- Automation using bots  
+- Brain-computer interfaces (BCI)  
+- Quantum computing applied to logic  
 
 ---
 
-🚧 Projets en cours  
+🌱 Interests  
+- Software & intelligent system development
+- Robotics & mechatronics  
+- Quantum computing and futuristic concepts  
+- Applied physics in tech  
+- Machine Learning & NLP  
+- Open-source and tech ethics  
 
-🧠 MEL – My Evolving Logic
-Une intelligence artificielle personnelle, en développement, pensée comme un assistant IA évolutif et modulaire.  
-Fonctionnalités prévues : mémoire, raisonnement contextuel, dialogue naturel, commandes système, etc.
+---
+
+🚧 Ongoing Projects  
+
+🧠 MEL – My Evolving Logic  
+A personal AI assistant project in development, aiming to evolve and adapt.
+Planned features: memory, contextual reasoning, natural conversation, and system control.
 
 🤖 CTX Kernel  
-Prototype de mini-OS expérimental codé pour apprendre les bases d’un système intelligent modulaire.
+An experimental mini OS designed to learn core system architecture and modular logic.
 
 💬 ChatFyre  
-Un bot de chat créatif et éducatif alimenté par une IA maison.
+A creative chatbot powered by a custom AI engine.
 
 🎮 Space Defender  
-Jeu rétro codé avec Scratch – 6 niveaux de combat spatial contre des aliens et un boss de fin.
-🎯 Objectifs  
-- Créer des IA personnalisées accessibles  
-- Fusionner programmation, logique et créativité  
-- Développer un outil open-source à impact  
-- Inspirer les autres à apprendre en créant  
+A retro-style Scratch game where you defeat aliens and face a final boss.
 
 ---
 
-😄 Fun facts  
-Je vis dans un monde entre science-fiction et lignes de code.  
-Je crois qu’avec un ordinateur, du café et un rêve, tout est possible.  
-J’aime explorer l’inconnu, questionner la norme et bâtir des idées folles.
+🎯 Goals  
+- Build accessible personalized AI tools  
+- Merge creativity and logic through code  
+- Develop open-source tech with impact  
+- Inspire others to learn by building
 
 ---
 
-💬 Me contacter  
-📧 itechlab [dot] me [at] gmail [dot] com
-📞 +237 699 714 297
+😄 Fun Facts  
+I live between science fiction and code.  
+I believe with a laptop, a dream, and some coffee, anything is possible.  
+I love exploring the unknown and bringing bold ideas to life.
+
+---
+
+💬 Get in touch  
+📧 cyberpunkdev01 [at] gmail [dot] com
+📞 +237 688 714 297
+```
+
